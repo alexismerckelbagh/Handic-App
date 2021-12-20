@@ -8,6 +8,7 @@ import Map from "../Screen/Map.js";
 import Speaker from "../Screen/Speaker.js";
 import Liseuse from "../Screen/Liseuse.js";
 import Login from "../Screen/Login.js";
+import Inscription from "../Screen/Inscription.js";
 
 
 const screens = {
@@ -32,6 +33,9 @@ Speaker:{
 Liseuse:{
   screen:Liseuse
 },
+Inscription:{
+  screen:Inscription
+}
 }
 
 
