@@ -1,13 +1,34 @@
 import React from 'react';
-import { StyleSheet, Text, View,Button, Image } from 'react-native';
+import { StyleSheet, Text, View,Button, Image} from 'react-native';
 import mic from '../assets/mic.png';
 
 
+const fetchApiCall = () => {
+  fetch("https://quotes15.p.rapidapi.com/quotes/random/", {
+	"method": "GET",
+	"headers": {
+		"x-rapidapi-host": "quotes15.p.rapidapi.com",
+		"x-rapidapi-key": "7d3ebdc961msh8a33dd1b0373377p1ea294jsn42aac90b7e56"
+	}
+})
+.then(response => {
+	return response.json();
+})
+.then(json=>{
+  alert(JSON.stringify(json));
+})
+.catch(err => {
+	console.error(err);
+});
 
-export default function Micro({navigator}) {
+}
+
+export default function Micro() {
+  
+  
   return (
     <View>
-        <Button  title='Micro' onPress={() =>(alert('Micro'))}/>
+        <Button  title='Micro' onPress={()=>(fetchApiCall())}/>
         <Image source={mic} style={styles.image}/>      
 
     </View>
