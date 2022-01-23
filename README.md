@@ -22,6 +22,7 @@ Ensuite, on peut décider de créer un style pour designer les composants de la 
 ![image](https://user-images.githubusercontent.com/94694942/150674505-dcde5b4e-5a29-45e0-aed7-20c1ab9c3de9.png)
 
 Enfin, il faut exporter la classe afin de pouvoir l'utiliser ailleurs dans l'application (Ici on exporte la classe avec (withNavigation car notre classe renvoie vers une autre, mais on peut utiliser simplement "export default" s'il n'ya pas de renvoie vers un autre objet)
+  
 ![image](https://user-images.githubusercontent.com/94694942/150674541-3e8cf8e7-6ce9-4416-a1bb-0c2a1a68f7f6.png)
   
 # Structure de l'application
