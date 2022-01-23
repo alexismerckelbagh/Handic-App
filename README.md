@@ -45,6 +45,7 @@ Screen contient les différents écrans de l'application. Ces écrans sont compo
 ![image](https://user-images.githubusercontent.com/94694942/150675036-92b502a2-beaf-48f9-aa28-38dedc37b683.png)
 
 App.js est le fichier principal. C'est l'application à proprement parlé
+
 ![image](https://user-images.githubusercontent.com/94694942/150675066-6d901038-6a49-49cc-ab11-9cbff3653274.png)
 
 Paradoxalement, il est très simple car tout est compacté avant dans les différents fichiers. (C'est l'avantage de la POO)
