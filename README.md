@@ -31,17 +31,21 @@ Enfin, il faut exporter la classe afin de pouvoir l'utiliser ailleurs dans l'app
 Les dossiers .expo et .vscode sont générés automatiquement à la création d'une application React-Native et sert au bon fonctionnement de cette dernière
   
 Assets contient les images affichés dans l'application
+  
 ![image](https://user-images.githubusercontent.com/94694942/150674858-a52f5913-2433-4031-94ee-72efa0c4b1ee.png)
 
 Components regroupe les différents objets (boutton, barre de recherche ...)
+  
 ![image](https://user-images.githubusercontent.com/94694942/150674923-51efe59a-f8d3-48e7-9cd2-0cf9bc1c1739.png)
 
 Navigator est le fichier qui permet la navigation entre les différents écrans de l'application
+  
 ![image](https://user-images.githubusercontent.com/94694942/150674954-2ae7f064-2fe0-4ce4-a72c-b7522aa4e48e.png)
 
 node_modules, comme son nom l'indique, contient les différents modules de l'application. C'est un fichier très volumineux.
   
 Screen contient les différents écrans de l'application. Ces écrans sont composés d'objets du dossier Components
+  
 ![image](https://user-images.githubusercontent.com/94694942/150675036-92b502a2-beaf-48f9-aa28-38dedc37b683.png)
 
 App.js est le fichier principal. C'est l'application à proprement parlé
@@ -52,6 +56,7 @@ Paradoxalement, il est très simple car tout est compacté avant dans les diffé
 ![image](https://user-images.githubusercontent.com/94694942/150675086-0acb6ab8-395d-41d9-a373-3c046190e90f.png)
 
 Les derniers dossiers sont aussi des dossiers générés automatiquement à la création de l'application
+  
 ![image](https://user-images.githubusercontent.com/94694942/150675136-dc63d9f8-58ff-482a-85ed-f2d00103fe57.png)
 
   
