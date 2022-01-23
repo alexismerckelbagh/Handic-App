@@ -51,7 +51,7 @@ Paradoxalement, il est très simple car tout est compacté avant dans les diffé
 ![image](https://user-images.githubusercontent.com/94694942/150675086-0acb6ab8-395d-41d9-a373-3c046190e90f.png)
 
 Les derniers dossiers sont aussi des dossiers générés automatiquement à la création de l'application
-![image](https://user-images.githubusercontent.com/94694942/150675136-dc63d9f8-58ff-482a-85ed-f2d00103fe57.png)
+  ![image](https://user-images.githubusercontent.com/94694942/150675136-dc63d9f8-58ff-482a-85ed-f2d00103fe57.png)
 
   
   
