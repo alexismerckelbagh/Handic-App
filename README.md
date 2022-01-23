@@ -28,7 +28,7 @@ Enfin, il faut exporter la classe afin de pouvoir l'utiliser ailleurs dans l'app
  
 ![image](https://user-images.githubusercontent.com/94694942/150674774-c9788e05-8eda-4cfd-a2df-1eb0ad8d461a.png)
   
-Les dossiers .expo et .vscode sont générés automatiquement à la création d'une application React-Native et sert au bon fonctionnement de cette dernière.
+Les dossiers .expo et .vscode sont générés automatiquement à la création d'une application React-Native et sert au bon fonctionnement de cette dernière
   
 Assets contient les images affichés dans l'application
 ![image](https://user-images.githubusercontent.com/94694942/150674858-a52f5913-2433-4031-94ee-72efa0c4b1ee.png)
@@ -44,7 +44,7 @@ node_modules, comme son nom l'indique, contient les différents modules de l'app
 Screen contient les différents écrans de l'application. Ces écrans sont composés d'objets du dossier Components
 ![image](https://user-images.githubusercontent.com/94694942/150675036-92b502a2-beaf-48f9-aa28-38dedc37b683.png)
 
-App.js est le fichier principal. C'est l'application à proprement parlé. 
+App.js est le fichier principal. C'est l'application à proprement parlé
 ![image](https://user-images.githubusercontent.com/94694942/150675066-6d901038-6a49-49cc-ab11-9cbff3653274.png)
 
 Paradoxalement, il est très simple car tout est compacté avant dans les différents fichiers. (C'est l'avantage de la POO)
