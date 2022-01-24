@@ -44,6 +44,51 @@ Assets contient les images affichés dans l'application
 Components regroupe les différents objets (boutton, barre de recherche ...)
   
 ![image](https://user-images.githubusercontent.com/94694942/150674923-51efe59a-f8d3-48e7-9cd2-0cf9bc1c1739.png)
+  
+Ci-dessous, le rendu en front des différents components:
+
+-Affichage:
+  
+![image](https://user-images.githubusercontent.com/94694942/150784522-c64d1710-de3a-4b4d-9b06-782d61129ae0.png)
+  
+-Azure:
+  
+![image](https://user-images.githubusercontent.com/94694942/150784778-9397a635-7055-4ca3-9a35-91bdf0efd841.png)
+
+-Creation:
+
+![image](https://user-images.githubusercontent.com/94694942/150784939-3cfd65f3-47cb-44f1-82ad-9953403619ce.png)
+
+-Dictaphone:
+  
+![image](https://user-images.githubusercontent.com/94694942/150785090-965128ff-e445-42da-8297-2b6eeae15f56.png)
+
+-Localisation:
+  
+![image](https://user-images.githubusercontent.com/94694942/150785222-c3497e24-726f-46b7-926c-c2c096bafcbc.png)
+
+-Parametre:
+  
+![image](https://user-images.githubusercontent.com/94694942/150785462-06f5a48f-0f75-4145-91b6-b30dc12c34f8.png)
+
+-Recherche:
+  
+![image](https://user-images.githubusercontent.com/94694942/150785596-f895392f-800c-47c5-8502-e31948ff624d.png)
+
+  
+-Scanner:
+ 
+![image](https://user-images.githubusercontent.com/94694942/150785942-bdb80a86-96bb-4574-9af0-2f1603fcd53c.png)
+
+-Son:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786053-3fefd8b6-1af5-4ba6-b971-2fee54264a17.png)
+
+-Visionneuse:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786171-e3051985-d7d9-4806-93d7-a283a22c67f9.png)
+
+
 
 Navigator est le fichier qui permet la navigation entre les différents écrans de l'application
   
