@@ -70,7 +70,9 @@ Ensuite il faut entrer la commande "npm start" afin de lancer le programme dans 
 
 On arrive alors sur la page suivante, d'ici on peut décider de lancer l'application sur un serveur web local en cliquant sur "Run in web browser", sinon peut scanner le QR code avec l'application Expo installé sur votre téléphone afin de pouvoir tester le programme directement sur mobile.
 lien de téléchergaent de Expo: 
+  
 -Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US
+  
 -IOS: https://apps.apple.com/us/app/expo-go/id982107779
   
 ![image](https://user-images.githubusercontent.com/94694942/150781664-4f6868bd-e517-4a69-a9c7-acb3577efdde.png)
