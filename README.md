@@ -25,6 +25,10 @@ Enfin, il faut exporter la classe afin de pouvoir l'utiliser ailleurs dans l'app
   
 ![image](https://user-images.githubusercontent.com/94694942/150674541-3e8cf8e7-6ce9-4416-a1bb-0c2a1a68f7f6.png)
   
+Ci-dessous, un lien vers la documentation officiel de React-Native pour débuter avec le développement mobile:
+
+https://reactnative.dev/docs/tutorial
+  
 # Structure de l'application
  
 ![image](https://user-images.githubusercontent.com/94694942/150674774-c9788e05-8eda-4cfd-a2df-1eb0ad8d461a.png)
