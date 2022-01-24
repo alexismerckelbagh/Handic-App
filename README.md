@@ -99,6 +99,25 @@ node_modules, comme son nom l'indique, contient les différents modules de l'app
 Screen contient les différents écrans de l'application. Ces écrans sont composés d'objets du dossier Components
   
 ![image](https://user-images.githubusercontent.com/94694942/150675036-92b502a2-beaf-48f9-aa28-38dedc37b683.png)
+  
+Ci-dessous, les différents écrans de l'application:
+  
+-Login:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786527-17822f71-89b0-4e0f-9a7e-3a25d38d3f5a.png)
+
+-Inscription:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786620-387aada2-49a0-48e4-9ef9-b5aea2f98dcb.png)
+
+-mdp_oublie:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786785-d970a401-3e93-4fd8-aedc-8dcf537f559e.png)
+
+-Menu:
+  
+![image](https://user-images.githubusercontent.com/94694942/150786691-743ae01c-61a0-41e1-a8cd-5d5d142f8160.png)
+
 
 App.js est le fichier principal. C'est l'application à proprement parlé
 
