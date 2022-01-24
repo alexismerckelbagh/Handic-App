@@ -119,6 +119,10 @@ Ci-dessous, les différents écrans de l'application:
 ![image](https://user-images.githubusercontent.com/94694942/150786691-743ae01c-61a0-41e1-a8cd-5d5d142f8160.png)
 
 
+Chacun des cinq boutons principaux du menun renvoie vers une page pour accéder au service cognitif associé. Ces pages ont la forme ci-dessous:
+  
+![image](https://user-images.githubusercontent.com/94694942/150787601-f359e3d3-6bbb-4767-94ac-cd83a25adde3.png)
+
 App.js est le fichier principal. C'est l'application à proprement parlé
 
 ![image](https://user-images.githubusercontent.com/94694942/150675066-6d901038-6a49-49cc-ab11-9cbff3653274.png)
